@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/hibernate-validator-6.1.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/classmate-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/jta-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/hibernate-entitymanager-5.6.15.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/mysql-connector-j-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/antlr-complete-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/jandex-2.4.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/hibernate-commons-annotations-5.1.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/javax.persistence-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/byte-buddy-1.14.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/hibernate-core-5.6.15.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/hibernate-jpa-2.1-api-1.0.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/jakarta.xml.bind-api-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GestaoHotelLP3/jars/jboss-logging-3.5.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
